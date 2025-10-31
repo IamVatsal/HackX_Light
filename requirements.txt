@@ -1,0 +1,12 @@
+flask
+google-generativeai
+python-dotenv
+flask-cors
+gunicorn
+langchain
+qdrant-client
+sentence-transformers
+langchain-community
+langchain-huggingface
+unstructured
+langchain-qdrant
